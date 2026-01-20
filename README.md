@@ -35,6 +35,10 @@ A collection focused on context management and tooling for building custom AI sy
 
 [agentic-integration]
 
+## Fine-tuning
+
+[fine-tuning-integration]
+
 ## Tooling
 
 [LangChain, LangGraph, LlamaIndex, Pydantic, FastAPI, Pinecone]
