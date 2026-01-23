@@ -38,4 +38,6 @@ A collection focused on context management and tooling for building custom AI sy
 
 ## User Interface
 
+A variety of models in this project are demonstrated through project linked below.
+
 [Multi LLM UI](https://github.com/obj809/multi-llm-ui)
