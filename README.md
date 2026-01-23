@@ -19,25 +19,17 @@ A collection focused on context management and tooling for building custom AI sy
 
 [LLM API Context Management](https://github.com/obj809/llm-api-context-management)
 
-[Structured State]
-
-[Summarized Content]
-
-## Retrieval Augmented Generation
-
-[rag-integration]
-
 ## LangChain
 
 [langchain-integration]
 
-## AI Agents
-
-[agentic-integration]
-
 ## Fine-tuning
 
 [fine-tuning-integration]
+
+## Retrieval Augmented Generation
+
+[rag-integration]
 
 ## Tooling
 
