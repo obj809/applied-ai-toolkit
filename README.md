@@ -27,13 +27,13 @@ A collection focused on context management and tooling for building custom AI sy
 
 [rag-integration]
 
-## Fine-tuning
-
-[fine-tuning-integration]
-
 ## Tooling
 
 [LangChain, LangGraph, LlamaIndex, Pydantic, FastAPI, Pinecone]
+
+## Fine-tuning
+
+[fine-tuning-integration]
 
 
 ## User Interface
