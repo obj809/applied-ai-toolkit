@@ -15,9 +15,9 @@ A collection focused on context management and tooling for building custom AI sy
 
 ## Managing Context via API Calls
 
-[System Prompt Toolkit](https://github.com/obj809/system-prompt-toolkit)
-
 [LLM API Context Management](https://github.com/obj809/llm-api-context-management)
+
+[System Prompt Toolkit](https://github.com/obj809/system-prompt-toolkit)
 
 ## LangChain
 
