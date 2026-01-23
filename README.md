@@ -1,4 +1,4 @@
-# AI Build Tool
+# Applied AI Toolkit
 
 ## Description
 

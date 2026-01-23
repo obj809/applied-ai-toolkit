@@ -1,1 +1,1 @@
-print('AI Build Tool')
+print('Applied AI Toolkit')
