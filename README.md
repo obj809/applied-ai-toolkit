@@ -12,6 +12,9 @@ A collection focused on context management and tooling for building custom AI sy
 
 [Claude API Connection](https://github.com/obj809/claude-api-connection)
 
+## Streaming Tokens
+
+[OpenAI Streaming Tokens](https://github.com/obj809/openai-streaming-tokens)
 
 ## Managing Context via API Calls
 
@@ -22,9 +25,6 @@ A collection focused on context management and tooling for building custom AI sy
 ## LangChain
 
 [LangChain Systems](https://github.com/obj809/langchain-systems)  
-
-[LangChain Architectures]
-
 
 ## Retrieval Augmented Generation
 
