@@ -42,6 +42,9 @@ A collection focused on context management and tooling for building custom AI sy
 
 [mcp-integration]
 
+## Claude Agents
+
+[agents-integration]
 
 ## User Interface
 
