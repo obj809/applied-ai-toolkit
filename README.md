@@ -12,7 +12,7 @@ A collection focused on context management and tooling for building custom AI sy
 
 [Claude API Connection](https://github.com/obj809/claude-api-connection)
 
-## API Streaming
+## Streaming Tokens
 
 [OpenAI Streaming Tokens](https://github.com/obj809/openai-streaming-tokens)
 
