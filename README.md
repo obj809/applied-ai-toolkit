@@ -41,6 +41,7 @@ A collection focused on context management and tooling for building custom AI sy
 ## Agents
 
 [agents-integration]
+[claude-agent-sdk](https://code.claude.com/docs/en/agent-sdk/overview)
 
 ## MCP Connection
 
@@ -51,3 +52,4 @@ A collection focused on context management and tooling for building custom AI sy
 A variety of models in this project are demonstrated through project linked below.
 
 [Multi LLM UI](https://github.com/obj809/multi-llm-ui)
+
