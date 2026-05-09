@@ -42,6 +42,8 @@ A collection focused on context management and tooling for building custom AI sy
 
 [agents-integration]
 [claude-agent-sdk](https://code.claude.com/docs/en/agent-sdk/overview)
+[agent-schemas]
+[agent-tool-schemas]
 
 ## MCP Connection
 
