@@ -31,7 +31,7 @@ A variety of models in this project are connected to the UI linked below.
 [System Prompt Toolkit](https://github.com/obj809/system-prompt-toolkit)
 
 
-## Agentic AI, Schemas and System Design
+## Agentic AI & System Design
 
 [OpenAI Agent Sandbox](https://github.com/obj809/openai-agent-sandbox)
 
