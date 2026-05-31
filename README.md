@@ -4,7 +4,15 @@
 
 A collection focused on context management and tooling for building custom AI systems. 
 
-## API Connection
+## User Interface
+
+A variety of models in this project are connected to the UI linked below.
+
+[LLM User Interface](https://github.com/obj809/llm-user-interface)
+
+## Provider API Connection
+
+### API Connection
 
 [OpenAI API Connection](https://github.com/obj809/openai-api-connection)
 
@@ -12,46 +20,52 @@ A collection focused on context management and tooling for building custom AI sy
 
 [Claude API Connection](https://github.com/obj809/claude-api-connection)
 
-## Streaming Tokens
+### Streaming Tokens
 
 [OpenAI Streaming Tokens](https://github.com/obj809/openai-streaming-tokens)
 
-## Managing Context via API Calls
+## Context Managment
+
+### Managing Context via API Calls
 
 [LLM API Context Management](https://github.com/obj809/llm-api-context-management)
 
 [System Prompt Toolkit](https://github.com/obj809/system-prompt-toolkit)
 
-## LangChain
+## Retrieval Augmented Generation (RAG)
 
-[LangChain Patterns](https://github.com/obj809/langchain-patterns)  
+[RAG Context Pipeline](https://github.com/obj809/rag-context-pipeline)
 
-## Tooling
+## Agentic AI
 
-[LangChain, LangGraph, LlamaIndex, Pydantic, FastAPI, Pinecone]
+### OpenAI Agent Sandbox
 
-## Retrieval Augmented Generation
+[OpenAI Agent Sandbox](https://github.com/obj809/openai-agent-sandbox)
 
-[rag-integration]
+### Claude Agent Sandbox
 
-## Fine-tuning
+[Claude Agent Sandbox](https://github.com/obj809/claude-agent-sandbox)
 
-[fine-tuning-integration]
+### Langchain Agent Sandbox
 
-## Agents
+[Langchain Agent Sandbox](https://github.com/obj809/langchain-agent-sandbox)
 
-[agents-integration]
-[claude-agent-sdk](https://code.claude.com/docs/en/agent-sdk/overview)
-[agent-schemas]
-[agent-tool-schemas]
+### Agentic AI Loop
 
-## MCP Connection
+[Agentic AI Loop](https://github.com/obj809/agentic-ai-loop)
 
-[mcp-integration]
+### Agentic AI Harness
 
-## User Interface
+[Agentic AI Harness](https://github.com/obj809/agentic-ai-harness)
 
-A variety of models in this project are demonstrated through project linked below.
+### Agent Schemas
 
-[Multi LLM UI](https://github.com/obj809/multi-llm-ui)
+[Agent Schemas](https://github.com/obj809/agent-schemas)
 
+### Agent Tool Schemas
+
+[Agent Tool Schemas](https://github.com/obj809/agent-tool-schemas)
+
+### Ollama - Run Models Locally
+
+[Ollama Docker Container](https://github.com/obj809/ollama-docker-container)
