@@ -26,15 +26,15 @@ A variety of models in this project are connected to the UI linked below.
 
 ## Context Managment
 
+### Retrieval Augmented Generation (RAG)
+
+[RAG Context Pipeline](https://github.com/obj809/rag-context-pipeline)
+
 ### Managing Context via API Calls
 
 [LLM API Context Management](https://github.com/obj809/llm-api-context-management)
 
 [System Prompt Toolkit](https://github.com/obj809/system-prompt-toolkit)
-
-## Retrieval Augmented Generation (RAG)
-
-[RAG Context Pipeline](https://github.com/obj809/rag-context-pipeline)
 
 ## Agentic AI
 
