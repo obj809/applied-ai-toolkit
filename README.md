@@ -38,31 +38,23 @@ A variety of models in this project are connected to the UI linked below.
 
 ## Agentic AI
 
-### OpenAI Agent Sandbox
+### Agent Sandboxes
 
 [OpenAI Agent Sandbox](https://github.com/obj809/openai-agent-sandbox)
 
-### Claude Agent Sandbox
-
 [Claude Agent Sandbox](https://github.com/obj809/claude-agent-sandbox)
-
-### Langchain Agent Sandbox
 
 [Langchain Agent Sandbox](https://github.com/obj809/langchain-agent-sandbox)
 
-### Agentic AI Loop
+### Agentic System Design
 
 [Agentic AI Loop](https://github.com/obj809/agentic-ai-loop)
 
-### Agentic AI Harness
-
 [Agentic AI Harness](https://github.com/obj809/agentic-ai-harness)
 
-### Agent Schemas
+### Agent and Tool Schemas
 
 [Agent Schemas](https://github.com/obj809/agent-schemas)
-
-### Agent Tool Schemas
 
 [Agent Tool Schemas](https://github.com/obj809/agent-tool-schemas)
 
