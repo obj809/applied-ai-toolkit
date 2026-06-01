@@ -20,7 +20,7 @@ Several systems in this project are connected to the UI linked below.
 
 [OpenAI Streaming Tokens](https://github.com/obj809/openai-streaming-tokens)
 
-## Context Managment
+## Context Management
 
 [LLM API Context Management](https://github.com/obj809/llm-api-context-management)
 
