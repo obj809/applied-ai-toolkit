@@ -21,23 +21,25 @@ A variety of models in this project are connected to the UI linked below.
 
 [OpenAI Streaming Tokens](https://github.com/obj809/openai-streaming-tokens)
 
-
 ## Context Managment
-
-[RAG Context Pipeline](https://github.com/obj809/rag-context-pipeline)
 
 [LLM API Context Management](https://github.com/obj809/llm-api-context-management)
 
 [System Prompt Toolkit](https://github.com/obj809/system-prompt-toolkit)
 
+## RAG (Retrieval Augmented Generation)
 
-## Agentic AI & System Design
+[RAG Context Pipeline](https://github.com/obj809/rag-context-pipeline)
+
+## Agentic AI Providers
 
 [OpenAI Agent Sandbox](https://github.com/obj809/openai-agent-sandbox)
 
 [Claude Agent Sandbox](https://github.com/obj809/claude-agent-sandbox)
 
 [Langchain Agent Sandbox](https://github.com/obj809/langchain-agent-sandbox)
+
+## Agentic AI System Design
 
 [Agentic AI Loop](https://github.com/obj809/agentic-ai-loop)
 
