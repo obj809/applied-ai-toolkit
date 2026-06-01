@@ -14,9 +14,9 @@ Several systems in this project are connected to the UI linked below.
 
 [OpenAI API Connection](https://github.com/obj809/openai-api-connection)
 
-[Gemini API Connection](https://github.com/obj809/gemini-api-connection)
+<!-- [Gemini API Connection](https://github.com/obj809/gemini-api-connection)
 
-[Claude API Connection](https://github.com/obj809/claude-api-connection)
+[Claude API Connection](https://github.com/obj809/claude-api-connection) -->
 
 [OpenAI Streaming Tokens](https://github.com/obj809/openai-streaming-tokens)
 
