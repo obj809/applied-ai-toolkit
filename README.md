@@ -6,7 +6,7 @@ A collection of projects exploring custom AI systems built on top of existing LL
 
 ## User Interface
 
-A variety of models in this project are connected to the UI linked below.
+Several systems in this project are connected to the UI linked below.
 
 [LLM User Interface](https://github.com/obj809/llm-user-interface)
 
