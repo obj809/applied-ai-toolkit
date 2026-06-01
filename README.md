@@ -2,14 +2,13 @@
 
 ## Description
 
-A collection focused on context management and tooling for building custom AI systems. 
+A collection of projects exploring custom AI systems built on top of existing LLMs.
 
 ## User Interface
 
 A variety of models in this project are connected to the UI linked below.
 
 [LLM User Interface](https://github.com/obj809/llm-user-interface)
-
 
 ## Provider API Connection
 
@@ -31,7 +30,7 @@ A variety of models in this project are connected to the UI linked below.
 
 [RAG Context Pipeline](https://github.com/obj809/rag-context-pipeline)
 
-## Agentic AI Providers
+## Agentic AI
 
 [OpenAI Agent Sandbox](https://github.com/obj809/openai-agent-sandbox)
 
@@ -39,7 +38,7 @@ A variety of models in this project are connected to the UI linked below.
 
 [Langchain Agent Sandbox](https://github.com/obj809/langchain-agent-sandbox)
 
-## Agentic AI System Design
+## Agentic System Design
 
 [Agentic AI Loop](https://github.com/obj809/agentic-ai-loop)
 
