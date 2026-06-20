@@ -51,3 +51,5 @@ Several systems in this project are connected to the UI linked below.
 ## Ollama - Run Models Locally
 
 [Ollama Docker Container](https://github.com/obj809/ollama-docker-container)
+
+[LiteLLM Docker Container](https://github.com/obj809/litellm-docker-container)
