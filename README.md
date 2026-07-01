@@ -48,7 +48,7 @@ Several systems in this project are connected to the UI linked below.
 
 [Agent Tool Schemas](https://github.com/obj809/agent-tool-schemas)
 
-## Ollama - Run Models Locally
+## Additional Tools
 
 [Ollama Docker Container](https://github.com/obj809/ollama-docker-container)
 
